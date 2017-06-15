@@ -1,3 +1,6 @@
+/*
+Test
+
 <?php
 /* ImportBuddy Restore & Migration Tool - iThemes.com
  * @author Dustin Bolton
